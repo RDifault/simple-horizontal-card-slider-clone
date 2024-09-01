@@ -25,7 +25,7 @@
    - Tailwind CSS v3.4.1
   
 3. Setelah clone repository, jalankan kode berikut:
-  ```bash
+   ```bash
    npm install
    ```
 4. Kemudian, jalankan
